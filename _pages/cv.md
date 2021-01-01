@@ -19,21 +19,12 @@ Work experience
 ======
 * Jul 2017 – Jun 2020: Research Scholar
   * Indian Institute of Technology Madras
-  # * Duties included: 
   * Supervisor: Professor Uday K Khankhoje
 
 * Aug 2020 - Present: Graduate Research Assistant
   * Michigan State University
-  # * Duties included: Merging pull requests
   * Supervisor: Professor Saiprasad Ravishankar
 
-/*
-Skills
-======
-* Python
-* MATLAB
-* C++
-*/
 
 Publications
 ======
@@ -53,8 +44,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-/#
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-#/

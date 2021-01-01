@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electronics and Communication Engineering, Motilal Nehru National Institute of Technology Allahabad, 2017
+* M.S. in Electrical Engineering, Indian Institute of Technology Madras, 2020
+* Ph.D in Computational Mathematics Science and Engineering, Michigan State University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2017 – Jun 2020: Research Scholar
+  * Indian Institute of Technology Madras
+  # * Duties included: 
+  * Supervisor: Professor Uday K Khankhoje
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Aug 2020 - Present: Graduate Research Assistant
+  * Michigan State University
+  # * Duties included: Merging pull requests
+  * Supervisor: Professor Saiprasad Ravishankar
+
+/*
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* C++
+*/
 
 Publications
 ======
@@ -53,7 +52,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+/#
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+#/

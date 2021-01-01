@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electronics and Communication Engineering, Motilal Nehru National Institute of Technology Allahabad, 2017
-* M.S. in Electrical Engineering, Indian Institute of Technology Madras, 2020
-* Ph.D in Computational Mathematics Science and Engineering, Michigan State University, 2025 (expected)
+* B.Tech. in Electronics and Communication Engineering, [Motilal Nehru National Institute of Technology Allahabad](http://www.mnnit.ac.in/), 2017
+* M.S. in Electrical Engineering, [Indian Institute of Technology Madras](https://www.iitm.ac.in/), 2020
+* Ph.D in Computational Mathematics Science and Engineering, [Michigan State University](https://msu.edu/), 2025 (expected)
 
 Work experience
 ======
-* Jul 2017 – Jun 2020: Research Scholar
+* Jul 2017 – Jun 2020: Research Scholar, Teaching Assistant
   * Indian Institute of Technology Madras
   * Supervisor: Professor Uday K Khankhoje
 

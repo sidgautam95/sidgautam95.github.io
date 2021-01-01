@@ -11,6 +11,6 @@ citation: Siddhant Gautam, Sakees V. Chidambaram, Niharika Gunturu, and Uday K. 
 ---
 # This paper is about the number 1. The number 2 is left for future work.
 
-# [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+# [Download paper here](http://academicpages.github.io/files/2019-piers-sri.pdf)
 
 Recommended citation: Siddhant Gautam, Sakees V. Chidambaram, Niharika Gunturu, and Uday K. Khankhoje. "Retrieval of Soil Moisture Using Sliced Regression Inversion Technique" In 2019 PhotonIcs & Electromagnetics Research Symposium-Spring (PIERS-Spring), pp. 1081-1089. IEEE, 2019.

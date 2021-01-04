@@ -9,4 +9,4 @@ location: "Chennai, India"
 ---
 
 Instructor: [Prof. Krishna Jagannathan](http://www.ee.iitm.ac.in/~krishnaj/)\
-Syllabus: [EE1101](http://www.ee.iitm.ac.in/~krishnaj/TCF/EE1101_EE.pdf)
+Course Webpage: [EE1101](http://www.ee.iitm.ac.in/~krishnaj/TCF/EE1101_EE.pdf)

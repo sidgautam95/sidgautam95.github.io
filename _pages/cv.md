@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Jul 2017 – Jun 2020: Research Scholar, Teaching Assistant
+* Jul 2017 – Jun 2020: Research Scholar
   * Indian Institute of Technology Madras
   * Supervisor: Professor Uday K Khankhoje
 
@@ -25,9 +25,31 @@ Work experience
   * Michigan State University
   * Supervisor: Professor Saiprasad Ravishankar
 
+  
+  Skills
+======
+* MATLAB
+* Python
+  * Numpy
+  * Scipy
+  * Pytorch
+* C++
+* Gmsh
 
 Publications
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

@@ -1,5 +1,5 @@
 ---
-title: "Computational Electromagnetics (NPTEL MOOC)"
+title: "Computational Electromagnetics [NPTEL-MOOC 2019]"
 collection: teaching
 type: "NPTEL course"
 permalink: /teaching/2019-nptel-cem
@@ -9,5 +9,4 @@ location: "Chennai, India"
 ---
 
 Instructor: [Prof. Uday K Khankhoje](http://www.ee.iitm.ac.in/uday/)\
-Semester: [NPTEL MOOC](https://onlinecourses.nptel.ac.in/), 2019\
 Course webpage: [NOC19-ee59](https://onlinecourses.nptel.ac.in/noc19_ee59/preview)

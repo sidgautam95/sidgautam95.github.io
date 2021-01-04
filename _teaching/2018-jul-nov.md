@@ -8,6 +8,5 @@ date: 2018-08-01
 location: "Chennai, India"
 ---
 
-Instructor: [Prof. Debdutta Ray](http://www.ee.iitm.ac.in/user/dray/)
-
+Instructor: [Prof. Debdutta Ray](http://www.ee.iitm.ac.in/user/dray/)\
 Semester: Jul-Nov 2018

@@ -1,7 +1,7 @@
 ---
 title: "Computational Electromagnetics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2019-jan-apr
 venue: "IIT Madras, Electrical Engineering"
 date: 2019-01-01

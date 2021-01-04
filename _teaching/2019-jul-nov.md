@@ -10,4 +10,4 @@ location: "Chennai, India"
 
 Instructor: [Prof. Uday K Khankhoje](http://www.ee.iitm.ac.in/uday/)\
 Semester: Jul-Nov 2019\
-Syllabus: [2019b-EE2025](http://www.ee.iitm.ac.in/uday/2019b-EE2025/index.html)
+Course Webpage: [2019b-EE2025](http://www.ee.iitm.ac.in/uday/2019b-EE2025/index.html)

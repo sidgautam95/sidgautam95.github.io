@@ -1,5 +1,5 @@
 ---
-title: "Electric Circuits and Networks"
+title: "Electric Circuits and Networks [Jul-Nov 2018]"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-jul-nov
@@ -9,4 +9,4 @@ location: "Chennai, India"
 ---
 
 Instructor: [Prof. Debdutta Ray](http://www.ee.iitm.ac.in/user/dray/)\
-Semester: Jul-Nov 2018
+Course Webpage: [EE2015](http://www.ee.iitm.ac.in/vlsi/courses/ee2015_2017/)

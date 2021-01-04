@@ -1,5 +1,5 @@
 ---
-title: "Computational Electromagnetics"
+title: "Computational Electromagnetics [Jan-Apr 2019]"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-jan-apr
@@ -9,5 +9,4 @@ location: "Chennai, India"
 ---
 
 Instructor: [Prof. Uday K Khankhoje](http://www.ee.iitm.ac.in/uday/)\
-Semester: Jan-Apr 2019\
 Course Webpage: [2019a-EE6506](http://www.ee.iitm.ac.in/uday/2019a-EE6506/index.html)

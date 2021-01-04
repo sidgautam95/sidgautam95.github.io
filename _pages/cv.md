@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 * Jul 2017 – Jun 2020: Research Scholar
-  * Indian Institute of Technology Madras
+  * [Indian Institute of Technology Madras](https://www.iitm.ac.in/)
   * Supervisor: [Prof. Uday K Khankhoje](http://www.ee.iitm.ac.in/uday/)
 
 * Aug 2020 - Present: Graduate Research Assistant
-  * Michigan State University
+  * [Michigan State University](https://msu.edu/)
   * Supervisor: [Prof. Saiprasad Ravishankar](https://sites.google.com/site/sairavishankar3/)
 
 Skills

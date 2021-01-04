@@ -24,6 +24,10 @@ Work experience
 * Aug 2020 - Present: Graduate Research Assistant
   * [Michigan State University](https://msu.edu/)
   * Supervisor: [Prof. Saiprasad Ravishankar](https://sites.google.com/site/sairavishankar3/)
+  
+Achievements
+======
+* Awarded the IEEE Geoscience and Remote Sensing Society (GRSS) - India, best masters thesis award, presented by the IEEE GRSS-Kerala Chapter in 2020.
 
 Skills
 ======
@@ -33,7 +37,6 @@ Skills
   * Scipy
   * Pytorch
 * C++
-* Gmsh
 
 Publications
 ======

@@ -12,3 +12,6 @@ I am a first year PhD student in the department of [Computational Mathematics Sc
 
 
 I obtained my MS degree in [Electrical Engieering](http://www.ee.iitm.ac.in/) from Indian Institute of Technology Madras in 2020. During my MS, I worked in the area of computational electromagnetics and microwave remote sensing under the guidance of [Prof. Uday Khankhoje](http://www.ee.iitm.ac.in/uday/index.html) at the [Numerical Electromagnetics and Optics (NEMO)](http://www.ee.iitm.ac.in/uday/group.html) Lab.
+
+
+You can contact me at gautamsi AT msu DOT edu.

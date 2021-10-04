@@ -14,4 +14,4 @@ I am a second year PhD student in the department of [Computational Mathematics S
 I obtained my MS degree in [Electrical Engieering](http://www.ee.iitm.ac.in/) from Indian Institute of Technology Madras in 2020. During my MS, I worked in the area of computational electromagnetics and microwave remote sensing under the guidance of [Prof. Uday K Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 
-Email: [gautamsi@msu.edu](mailto:gautamsi@msu.edu).
+Email: You can reach out to me at [gautamsi@msu.edu](mailto:gautamsi@msu.edu).

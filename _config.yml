@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Siddhant Gautam"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Student, MSU"
   location         : "East Lansing, MI"
   employer         :

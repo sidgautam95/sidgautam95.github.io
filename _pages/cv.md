@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Link
+======
+[Download my CV here](https://sidgautam95.github.io/files/cv_siddhant.pdf)
+
+<!---
 Education
 ======
 * B.Tech. in Electronics and Communication Engineering, [Motilal Nehru National Institute of Technology Allahabad](http://www.mnnit.ac.in/), 2017

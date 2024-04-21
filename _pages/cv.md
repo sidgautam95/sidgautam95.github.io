@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Link
 ======
 [Download my CV here](https://sidgautam95.github.io/files/cv_siddhant.pdf)
 

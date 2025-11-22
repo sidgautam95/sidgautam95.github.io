@@ -11,6 +11,9 @@ redirect_from:
 
 [Download my CV here](https://sidgautam95.github.io/files/cv_siddhant.pdf)
 
+<sub>Updated: Nov 2025</sub>
+
+
 <!---
 Education
 ======

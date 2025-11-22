@@ -6,11 +6,14 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles on <a href="{https://scholar.google.com/citations?user=kFroAXEAAAAJ&hl=en}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my articles on <a href="https://scholar.google.com/citations?user=kFroAXEAAAAJ&hl=en">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
+<!-- Removed auto-generated publication list -->
+<!--
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->

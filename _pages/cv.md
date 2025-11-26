@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](https://sidgautam95.github.io/files/cv_siddhant.pdf)
+[Download my CV here](https://sidgautam95.github.io/files/Curriculum_Vitae_Siddhant.pdf)
 
 <sub>Updated: Nov 2025</sub>
 

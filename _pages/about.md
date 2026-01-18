@@ -1,11 +1,13 @@
 ---
-layout: archive
-title: "About"
-permalink: /about/
+permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
-redirect_from:
+redirect_from: 
+  - /about/
   - /about.html
 ---
+
 
 I am a Ph.D. student in the Department of
 [Computational Mathematics, Science and Engineering](https://cmse.msu.edu/)

@@ -5,9 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-I am a Ph.D. candidate ...
-(then your exact content)
-
 
 I am a Ph.D. student in the Department of
 [Computational Mathematics, Science and Engineering](https://cmse.msu.edu/)

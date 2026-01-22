@@ -36,7 +36,7 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 - **Sep 2025:** Our work *UGoDIT: Unsupervised Group Deep Image Prior via Transferable Weights* has been accepted to NeurIPS 2025 ([link](https://openreview.net/pdf/1ffbe72f8f1fdc314352ec90890bcc75709214a7.pdf)).
 
-- **Aug 2025:** Our work *Learning Robust Features for Scatter Removal and Reconstruction in Dynamic X-Ray Tomography* has been published in *Optics Express* ([link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-12-26826)).
+- **May 2025:** Our work *Learning Robust Features for Scatter Removal and Reconstruction in Dynamic X-Ray Tomography* has been published in *Optics Express* ([link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-12-26826)).
 
 - **Apr 2025:** Received the Outstanding Graduate Student Award, College of Engineering, Michigan State University.
 

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can find my CV here:
-[CV (PDF)](https://sidgautam95.github.io/files/Curriculum_Vitae_Siddhant.pdf)
+[CV](https://sidgautam95.github.io/files/CV_Siddhant.pdf)
 
 <sub>Updated: Nov 2025</sub>
 

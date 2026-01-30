@@ -34,6 +34,8 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 - **Dec 2025:** Awarded the CMSE Ginther Research Fellowship, Michigan State University.
 
+- **Sep 2025:** Our work *Learning Scan-Adaptive MRI Undersampling Patterns with Pre-Optimized Mask Supervision* has been submitted to *IEEE ICASSP 2026* ([arXiv](https://arxiv.org/abs/2509.16846)).
+
 - **Sep 2025:** Our work *UGoDIT: Unsupervised Group Deep Image Prior via Transferable Weights* has been accepted to NeurIPS 2025 ([link](https://openreview.net/pdf/1ffbe72f8f1fdc314352ec90890bcc75709214a7.pdf)).
 
 - **May 2025:** Our work *Learning Robust Features for Scatter Removal and Reconstruction in Dynamic X-Ray Tomography* has been published in *Optics Express* ([link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-12-26826)).

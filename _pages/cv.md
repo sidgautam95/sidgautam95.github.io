@@ -12,7 +12,7 @@ redirect_from:
 You can find my CV here:
 [CV](https://sidgautam95.github.io/files/CV_Siddhant.pdf)
 
-<sub>Updated: Nov 2025</sub>
+<sub>Updated: Feb 2026</sub>
 
 
 <!---

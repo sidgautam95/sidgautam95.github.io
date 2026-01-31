@@ -46,7 +46,7 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 - **Apr 2024:** Our work *Patient-Adaptive and Learned MRI Data Undersampling Using Neighborhood Clustering* has been accepted to IEEE ICASSP 2024 ([link](https://ieeexplore.ieee.org/abstract/document/10446528/)).
 
-- **Nov 2023:** Our work *Patient-Adaptive MRI Undersampling Using Neighborhood Clustering* has been accepted to the Medical Imaging Meets NeurIPS (MedNeurIPS) Workshop, NeurIPS 2023.
+- **Nov 2023:** Our work *Patient-Adaptive MRI Undersampling Using Neighborhood Clustering* has been accepted to the Medical Imaging Meets NeurIPS (MedNeurIPS) Workshop, NeurIPS 2023 ([link](https://neurips.cc/virtual/2023/82518)).
 
 - **Oct 2023:** Our work *Residual Encoding Using Neural Field for Image Sequence Modeling* has been accepted to the Asilomar Conference on Signals, Systems, and Computers ([link](https://ieeexplore.ieee.org/abstract/document/10476959)).
 

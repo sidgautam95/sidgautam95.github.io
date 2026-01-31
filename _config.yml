@@ -88,7 +88,7 @@ author:
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kFroAXEAAAAJ&hl=en"
   email            : "gautamsi@msu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Siddhant_Gautam2"
+  researchgate     : #"https://www.researchgate.net/profile/Siddhant_Gautam2"
   uri              :
   bitbucket        :
   codepen          :

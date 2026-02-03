@@ -30,6 +30,8 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 
 ## News
+- **Feb 2026:** Our works *Learning Patient-Adaptive Undersampling Patterns for Cardiac MRI Using Nearest Neighbor Search* and *Scan-Adaptive Deep Learning-Based Sampling with Pre-Optimized Mask Supervision* have been accepted for poster presentation at the 2026 ISMRM Annual Meeting, Cape Town, South Africa.
+
 - **Jan 2026:** Our work *Scan-Adaptive MRI Undersampling Using Neighbor-Based Optimization (SUNO)* has been accepted to *IEEE Transactions on Computational Imaging* ([link](https://ieeexplore.ieee.org/document/11346972/)).
 
 - **Dec 2025:** Awarded the CMSE Ginther Research Fellowship, Michigan State University.

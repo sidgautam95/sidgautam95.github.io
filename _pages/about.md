@@ -30,7 +30,7 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 
 ## News
-- **Feb 2026:** Our new preprint *Scan-Adaptive Dynamic MRI Undersampling Using a Dictionary of Efficiently Learned Patterns* is now available on arXiv ([arXiv](https://arxiv.org/abs/2602.XXXXX)).
+- **Feb 2026:** Our new preprint *Scan-Adaptive Dynamic MRI Undersampling Using a Dictionary of Efficiently Learned Patterns* is now available on arXiv ([arXiv](https://arxiv.org/abs/2602.13984)).
 
 - **Feb 2026:** Our works *Learning Patient-Adaptive Undersampling Patterns for Cardiac MRI Using Nearest Neighbor Search* and *Scan-Adaptive Deep Learning-Based Sampling with Pre-Optimized Mask Supervision* have been accepted for poster presentation at the 2026 ISMRM Annual Meeting, Cape Town, South Africa.
 

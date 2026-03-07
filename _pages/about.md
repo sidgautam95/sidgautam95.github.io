@@ -30,6 +30,9 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 
 ## News
+
+- **March 2026:** I will be joining the Department of [Electrical and Computer Engineering (ECE)](https://ece.engin.umich.edu/) Department at the University of Michigan as a Postdoctoral Research Fellow, working with [Prof. Raj Rao Nadakuditi](https://rajrao.engin.umich.edu/) and [Prof. Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/).
+  
 - **Feb 2026:** Our new preprint *Scan-Adaptive Dynamic MRI Undersampling Using a Dictionary of Efficiently Learned Patterns* is now available on arXiv ([arXiv](https://arxiv.org/abs/2602.13984)).
 
 - **Feb 2026:** Our works *Learning Patient-Adaptive Undersampling Patterns for Cardiac MRI Using Nearest Neighbor Search* and *Scan-Adaptive Deep Learning-Based Sampling with Pre-Optimized Mask Supervision* have been accepted for poster presentation at the 2026 ISMRM Annual Meeting, Cape Town, South Africa.

@@ -31,7 +31,7 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 ## News
 
-- **March 2026:** I will be joining the Department of [Electrical and Computer Engineering (ECE)](https://ece.engin.umich.edu/) Department at the University of Michigan as a Postdoctoral Research Fellow in May 2026, working with [Prof. Raj Rao Nadakuditi](https://rajrao.engin.umich.edu/) and [Prof. Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/).
+<!---  - **March 2026:** I will be joining the Department of [Electrical and Computer Engineering (ECE)](https://ece.engin.umich.edu/) Department at the University of Michigan as a Postdoctoral Research Fellow in May 2026, working with [Prof. Raj Rao Nadakuditi](https://rajrao.engin.umich.edu/) and [Prof. Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/). --->
   
 - **Feb 2026:** Our new preprint *Scan-Adaptive Dynamic MRI Undersampling Using a Dictionary of Efficiently Learned Patterns* is now available on arXiv ([arXiv](https://arxiv.org/abs/2602.13984)).
 
@@ -39,7 +39,7 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 - **Jan 2026:** Our work *Scan-Adaptive MRI Undersampling Using Neighbor-Based Optimization (SUNO)* has been accepted to *IEEE Transactions on Computational Imaging* ([link](https://ieeexplore.ieee.org/document/11346972/)).
 
-- **Dec 2025:** Awarded the CMSE Ginther Research Fellowship (Spring 2026), Michigan State University.
+<!--- - **Dec 2025:** Awarded the CMSE Ginther Research Fellowship (Spring 2026), Michigan State University. --->
 
 - **Sep 2025:** Our work *Learning Scan-Adaptive MRI Undersampling Patterns with Pre-Optimized Mask Supervision* is now available on arXiv ([arXiv](https://arxiv.org/abs/2509.16846)).
 
@@ -47,9 +47,9 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 - **May 2025:** Our work *Learning Robust Features for Scatter Removal and Reconstruction in Dynamic X-Ray Tomography* has been published in *Optics Express* ([link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-12-26826)).
 
-- **Apr 2025:** Received the Outstanding Graduate Student Award, College of Engineering, Michigan State University.
+<!--- - **Apr 2025:** Received the Outstanding Graduate Student Award, College of Engineering, Michigan State University. --->
 
-- **Aug 2024:** Awarded the CMSE Ginther Outstanding Research Award, Michigan State University.
+<!--- - **Aug 2024:** Awarded the CMSE Ginther Outstanding Research Award, Michigan State University. --->
 
 - **Apr 2024:** Our work *Patient-Adaptive and Learned MRI Data Undersampling Using Neighborhood Clustering* has been accepted to IEEE ICASSP 2024 ([link](https://ieeexplore.ieee.org/abstract/document/10446528/)).
 

@@ -31,7 +31,9 @@ of [Dr. Uday K. Khankhoje](http://www.ee.iitm.ac.in/uday/index.html).
 
 ## News
 
-<!---  - **March 2026:** I will be joining the Department of [Electrical and Computer Engineering (ECE)](https://ece.engin.umich.edu/) Department at the University of Michigan as a Postdoctoral Research Fellow in May 2026, working with [Prof. Raj Rao Nadakuditi](https://rajrao.engin.umich.edu/) and [Prof. Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/). --->
+- **May 2026:** I will be joining the Department of [Electrical and Computer Engineering](https://ece.engin.umich.edu/) at the University of Michigan as a Postdoctoral Research Fellow, working with [Prof. Raj Rao Nadakuditi](https://rajrao.engin.umich.edu/) and [Prof. Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/).
+
+- **Apr 2026:** I successfully defended my Ph.D. in [Computational Mathematics, Science and Engineering](https://cmse.msu.edu/) at Michigan State University.
   
 - **Feb 2026:** Our new preprint *Scan-Adaptive Dynamic MRI Undersampling Using a Dictionary of Efficiently Learned Patterns* is now available on arXiv ([arXiv](https://arxiv.org/abs/2602.13984)).
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddhant Gautam"
 title_separator          : "-"
 name                     : &name "Siddhant Gautam"
-description              : &description "PhD Student"
+description              : &description "Postdoctoral Research Fellow"
 url                      : https://sidgautam95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sidgautam95/sidgautam95.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siddhant Gautam"
   avatar           : "profile.jpg"
-  bio              : "PhD Student, MSU"
-  location         : "East Lansing, MI"
-  employer         :
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Postdoctoral Research Fellow, University of Michigan"
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kFroAXEAAAAJ&hl=en"
-  email            : "gautamsi@msu.edu"
+  email            : "gautamsi@umich.edu"
   researchgate     : #"https://www.researchgate.net/profile/Siddhant_Gautam2"
   uri              :
   bitbucket        :

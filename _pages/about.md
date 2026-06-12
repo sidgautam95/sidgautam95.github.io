@@ -21,9 +21,9 @@ I received my M.S. in [Electrical Engineering](http://www.ee.iitm.ac.in/) from t
 
 ## News
 
+- **June 2026:** I have joined the Department of [Electrical and Computer Engineering](https://ece.engin.umich.edu/) at the University of Michigan as a Postdoctoral Research Fellow, working with [Prof. Raj Rao Nadakuditi](https://rajrao.engin.umich.edu/) and [Prof. Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/).
+
 - **May 2026:** Our new preprint *Dynamic MRI Reconstruction Via Dual Deep Priors and Low-Rank Plus Sparse Modeling* is now available on arXiv ([arXiv](https://arxiv.org/abs/2605.18709)).
-  
-- **May 2026:** I will be joining the Department of [Electrical and Computer Engineering](https://ece.engin.umich.edu/) at the University of Michigan as a Postdoctoral Research Fellow, working with [Prof. Raj Rao Nadakuditi](https://rajrao.engin.umich.edu/) and [Prof. Jeffrey A. Fessler](https://web.eecs.umich.edu/~fessler/).
 
 - **Apr 2026:** I successfully defended my Ph.D. in [Computational Mathematics, Science and Engineering](https://cmse.msu.edu/) at Michigan State University.
   

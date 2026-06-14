@@ -34,7 +34,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 * **Scan-Adaptive MRI Undersampling Using Neighbor-Based Optimization (SUNO)**  
   **S. Gautam**, A. Li, N. Seiberlich, J. A. Fessler, and S. Ravishankar.  
-  *IEEE Transactions on Medical Imaging (TMI)*, 2025.  
+  *IEEE Transactions on Computational Imaging (TCI)*, 2025.  
   \[[DOI](https://doi.org/10.1109/TCI.2026.3653330)\]
 
 * **Learning Robust Features for Scatter Removal and Reconstruction in Dynamic ICF X-Ray Tomography**  

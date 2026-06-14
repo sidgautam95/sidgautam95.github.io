@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Siddhant Gautam"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Fellow"
+  bio              : "Postdoctoral Research Fellow, University of Michigan"
   location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+  employer         : #"University of Michigan"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kFroAXEAAAAJ&hl=en"
   email            : "gautamsi@umich.edu"

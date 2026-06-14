@@ -15,7 +15,7 @@ author_profile: true
 
 (* equal contribution)
 
-## Preprints & Working Papers
+## Preprints
 * **Dynamic MRI Reconstruction Via Dual Deep Priors and Low-Rank Plus Sparse Modeling**  
   Y. Sun\*, **S. Gautam\***, C. Huang, N. Seiberlich, I. R. Alkhouri, and S. Ravishankar.  
   *arXiv preprint, 2026*  
@@ -28,7 +28,7 @@ author_profile: true
 
 * **Learning Scan-Adaptive MRI Undersampling Patterns with Pre-Optimized Mask Supervision**  
   A. Dhar\*, **S. Gautam\***, and S. Ravishankar.  
-  *Submitted to ICASSP, 2026*  
+  *arXiv preprint, 2026*  
   \[[arXiv](https://arxiv.org/abs/2509.16846)\]
 
 ---
